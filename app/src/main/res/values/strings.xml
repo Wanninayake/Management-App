@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ManagementApp</string>
+    <string name="title_activity_create_appointment">CreateAppointment</string>
+</resources>
